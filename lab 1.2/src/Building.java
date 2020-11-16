@@ -32,6 +32,6 @@ public final class Building
 
     @Override
     public String toString() {
-        return floor +" - "+ name +" - "+ dateOfBuild;
+        return floor + " - " + name + " - " + dateOfBuild;
     }
 }
